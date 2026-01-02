@@ -1,0 +1,12 @@
+features_used:
+- quantity (tonnes)
+- value (rs.in lakhs)
+metrics:
+  ais_threshold: 1.0115809440612793
+  high_risk_routes: 1
+  r2_score: .nan
+  test_rmse: 0.10347099291822814
+  total_routes: 1
+  train_rmse: 0.17283864476866329
+model: LSTM + AIS
+time_steps: 5

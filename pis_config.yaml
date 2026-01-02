@@ -1,0 +1,6 @@
+features_used:
+- quantity (tonnes)
+- value (rs.in lakhs)
+model: Hybrid AIS + PSO
+optimized_threshold: 1.0120068788528442
+time_steps: 5

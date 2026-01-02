@@ -1,0 +1,6 @@
+{
+    "model": "Hybrid AIS + PSO",
+    "ais_threshold": 1.0120068788528442,
+    "total_routes": 1,
+    "high_risk_routes": 1
+}

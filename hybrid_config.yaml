@@ -1,0 +1,6 @@
+features_used:
+- quantity (tonnes)
+- value (rs.in lakhs)
+model: Hybrid AIS + CSA
+threshold: 1.0832611322402954
+time_steps: 5

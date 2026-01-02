@@ -1,0 +1,7 @@
+{
+    "train_rmse": 0.1683337405465287,
+    "test_rmse": 0.12250382887861633,
+    "ais_threshold": 1.0306137800216675,
+    "total_routes_evaluated": 1,
+    "high_risk_routes": 1
+}

@@ -1,0 +1,6 @@
+features_used:
+- quantity (tonnes)
+- value (rs.in lakhs)
+model: Hybrid BA + AIS
+optimized_threshold: 1.0118591785430908
+time_steps: 5

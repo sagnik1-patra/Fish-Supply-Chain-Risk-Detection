@@ -1,0 +1,6 @@
+{
+    "model": "Hybrid AIS + CSA",
+    "ais_threshold": 1.0832611322402954,
+    "high_risk_routes": 1,
+    "total_routes": 1
+}

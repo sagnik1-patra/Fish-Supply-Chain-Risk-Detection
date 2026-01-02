@@ -1,0 +1,6 @@
+features_used:
+- quantity (tonnes)
+- value (rs.in lakhs)
+model: Hybrid BA + PSO
+optimized_threshold: 4.087865876775656
+time_steps: 5
